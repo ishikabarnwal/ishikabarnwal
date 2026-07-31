@@ -17,14 +17,6 @@ Full Stack Developer • Java Developer • Backend Enthusiast
 ## About Me
 
 I'm a **Final Year B.Tech Computer Science** student passionate about building software that solves real-world problems.
-
-Currently focused on:
-
-- Backend Engineering
-- Full Stack Development
-- Data Structures & Algorithms
-- System Design
-
 ---
 
 ## Featured Projects
