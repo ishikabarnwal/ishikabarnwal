@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./gitbanner.png" alt="GitHub Banner" width="100%">
-</p>
+</p> -->
 
-<!-- <h1 align="center">
+<h1 align="center">
 Hi 👋, I'm <span style="color:#58A6FF;">Ishika Barnwal</span>
 </h1>
 
@@ -12,7 +12,7 @@ Full Stack Developer • Java Developer • Problem Solver
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Backend+Developer;Always+Learning+Something+New" />
-</p> -->
+</p> 
 
 ---
 
