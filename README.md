@@ -23,16 +23,45 @@ Currently focusing on:
 
 ---
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-| Project | Description |
-|---------|-------------|
-| **BorrowBox** | Student-focused rental marketplace for borrowing and renting everyday essentials. |
-| **Atlas** | Smart campus navigation and accessibility platform. |
-| **CredChain** | Blockchain-powered credential verification platform. |
-| **SettleUp Backend** | Spring Boot backend for shared expense management. |
-| **LeetCode Solutions** | Collection of accepted Java solutions synced with LeetHub. |
+### BorrowBox
+Student-focused rental marketplace.
 
+**Tech**
+Java • Spring Boot • React
+
+</td>
+
+<td width="50%">
+
+### Atlas
+Campus navigation platform.
+
+**Tech**
+React • Node.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### CredChain
+Blockchain credential verification.
+
+</td>
+
+<td width="50%">
+
+### LeetCode Solutions
+Accepted Java solutions.
+
+</td>
+</tr>
+</table>
 ---
 
 ## Tech Stack
