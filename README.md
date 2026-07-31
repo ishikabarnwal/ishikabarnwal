@@ -62,15 +62,13 @@ Java • Spring Boot • React • Node.js • MongoDB • MySQL • Django • 
 
 ---
 
-<h3>Let's Connect</h3>
+<h2>Let's Connect</h2>
 
 <a href="https://www.linkedin.com/in/ishika-barnwal-/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://ishika-barnwal.vercel.app/">
-  <img src="https://cdn.simpleicons.org/vercel/white" height="50" alt="Portfolio"/>
-</a>
+
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:ishikabarnwal2004@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
