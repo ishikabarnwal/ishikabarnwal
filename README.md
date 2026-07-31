@@ -83,13 +83,12 @@ Currently focused on:
 
 ---
 
-## Current Focus
+## Currently Working On
 
-- Building production-ready applications
-- Strengthening backend development with Spring Boot
-- Solving Data Structures & Algorithms consistently
-- Exploring cloud technologies and system design
-
+- Building **BorrowBox**
+- Solving LeetCode consistently
+- Learning advanced Spring Boot
+- Exploring system design concepts
 ---
 
 ## Connect
