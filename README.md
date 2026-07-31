@@ -62,7 +62,7 @@ Java • Spring Boot • React • Node.js • MongoDB • MySQL • Django • 
 
 ---
 
-## Connect
+<h3>Let's Connect</h3>
 
 <a href="https://www.linkedin.com/in/ishika-barnwal-/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
