@@ -1,61 +1,133 @@
-<h1 align="center">Hi 👋, I'm Ishika Barnwal</h1>
+<h1 align="center">
+Hi 👋, I'm <span style="color:#58A6FF;">Ishika Barnwal</span>
+</h1>
+
+<h3 align="center">
+Full Stack Developer • Java Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <b>Final Year B.Tech Computer Science Student</b><br>
-  Java Developer • Backend Enthusiast • Problem Solver
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Backend+Developer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm a final-year Computer Science student passionate about building practical software and continuously improving my problem-solving skills.
+🎓 Final Year B.Tech Computer Science Student
 
-- 💻 Solving Data Structures & Algorithms in **Java**
-- 🚀 Building full-stack and backend applications
-- 🌱 Learning **Spring Boot** and **System Design**
-- 🎯 Preparing for Software Engineering roles
+💡 Passionate about building products that solve real-world problems.
 
----
+🚀 Currently focused on Full Stack Development, Backend Engineering and Data Structures & Algorithms.
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-`Java` • `JavaScript` • `HTML` • `CSS` • `SQL`
-
-**Tools**
-
-`Spring Boot` • `Git` • `GitHub` • `MySQL` • `Postman` • `VS Code` • `IntelliJ IDEA`
+🌱 Exploring scalable backend systems, automation and modern web technologies.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📦 BorrowBox | Student-focused rental marketplace for borrowing and renting everyday essentials. |
-| 🧭 Atlas | Smart campus navigation and accessibility platform designed to improve the campus experience. |
-| 🔗 CredChain | Blockchain-based platform for secure credential verification and management. |
-| 💰 SettleUp Backend | RESTful Spring Boot backend for expense sharing and settlement. |
-| 📚 LeetCode Solutions | Collection of accepted Java solutions for Data Structures & Algorithms practice. |
+| 📦 **BorrowBox** | Student rental marketplace for borrowing and renting everyday essentials. |
+| 🧭 **Atlas** | Smart campus navigation & accessibility platform. |
+| 🔗 **CredChain** | Blockchain powered credential verification platform. |
+| 💰 **SettleUp Backend** | Spring Boot backend for expense management. |
+| 📚 **LeetCode Solutions** | Collection of accepted Java solutions synced automatically using LeetHub. |
 
 ---
 
-## 🎯 Current Focus
+# 🛠 Tech Stack
 
-- Master Data Structures & Algorithms
-- Backend Development
-- System Design
-- Building impactful real-world projects
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma" />
+</p>
+
+## Automation
+
+- ⚡ n8n
 
 ---
 
-## 📫 Connect With Me
+# 📈 GitHub Analytics
 
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 🌐 GitHub: **github.com/ishikabarnwal**
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ishikabarnwal&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishikabarnwal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ishikabarnwal&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful Full Stack Projects
+- 📚 Master Spring Boot
+- 💻 Solve 500+ LeetCode problems
+- ☁️ Learn Cloud & System Design
+- 🤝 Contribute to Open Source
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ishika-barnwal-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://ishika-barnwal.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:ishikabarnwal2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
