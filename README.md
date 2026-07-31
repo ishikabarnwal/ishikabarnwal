@@ -12,97 +12,70 @@ Full Stack Developer • Java Developer • Backend Enthusiast
 
 ## About Me
 
-Final Year B.Tech Computer Science student passionate about building software that solves real-world problems.
+I'm a **Final Year B.Tech Computer Science** student passionate about building software that solves real-world problems.
 
-Currently focusing on:
+Currently focused on:
 
-- Full Stack Development
 - Backend Engineering
+- Full Stack Development
 - Data Structures & Algorithms
 - System Design
 
+> Building projects that are practical, scalable, and user-focused.
+
 ---
 
-<table>
-<tr>
-<td width="50%">
+## Featured Projects
 
-### BorrowBox
-Student-focused rental marketplace.
+| Project | Description | Tech |
+|---------|-------------|------|
+| **BorrowBox** | Student-focused rental marketplace for borrowing and renting everyday essentials. | Java • Spring Boot • React |
+| **Atlas** | Smart campus navigation and accessibility platform. | React • Node.js |
+| **CredChain** | Blockchain-powered credential verification platform. | Blockchain • JavaScript |
+| **SettleUp Backend** | RESTful backend for shared expense management. | Spring Boot • MySQL |
+| **LeetCode Solutions** | Collection of accepted Java solutions synced with LeetHub. | Java |
 
-**Tech**
-Java • Spring Boot • React
-
-</td>
-
-<td width="50%">
-
-### Atlas
-Campus navigation platform.
-
-**Tech**
-React • Node.js
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### CredChain
-Blockchain credential verification.
-
-</td>
-
-<td width="50%">
-
-### LeetCode Solutions
-Accepted Java solutions.
-
-</td>
-</tr>
-</table>
 ---
 
 ## Tech Stack
 
-### Languages
+#### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,html,css,js" />
 </p>
 
-### Frontend
+#### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
 
-### Backend
+#### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
 </p>
 
-### Database
+#### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### Tools
+#### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma" />
 </p>
 
-### Automation
+#### Automation
 
-n8n
+**n8n**
 
 ---
 
-## GitHub Streak
+## GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ishikabarnwal&theme=github-dark-blue&hide_border=true"/>
@@ -112,16 +85,16 @@ n8n
 
 ## Current Focus
 
-- Building production-ready full stack applications
+- Building production-ready applications
 - Strengthening backend development with Spring Boot
-- Consistently solving Data Structures & Algorithms
-- Learning cloud technologies and system design
+- Solving Data Structures & Algorithms consistently
+- Exploring cloud technologies and system design
 
 ---
 
 ## Connect
 
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/ishika-barnwal-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -133,6 +106,10 @@ n8n
 
 <a href="mailto:ishikabarnwal2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-Download-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
