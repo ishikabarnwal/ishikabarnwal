@@ -5,7 +5,11 @@ Full Stack Developer • Java Developer • Backend Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Backend+Engineering;Always+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Building+Practical+Software;Always+Learning" />
+</p>
+
+<p align="center">
+<i>Building software that is practical, scalable, and meaningful.</i>
 </p>
 
 ---
@@ -21,14 +25,12 @@ Currently focused on:
 - Data Structures & Algorithms
 - System Design
 
-> Building projects that are practical, scalable, and user-focused.
-
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
 | **BorrowBox** | Student-focused rental marketplace for borrowing and renting everyday essentials. | Java • Spring Boot • React |
 | **Atlas** | Smart campus navigation and accessibility platform. | React • Node.js |
 | **CredChain** | Blockchain-powered credential verification platform. | Blockchain • JavaScript |
@@ -89,33 +91,31 @@ Currently focused on:
 - Solving LeetCode consistently
 - Learning advanced Spring Boot
 - Exploring system design concepts
+
 ---
 
 ## Connect
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ishika-barnwal-/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://ishika-barnwal.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:ishikabarnwal2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-Download-58A6FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+<!-- Add Resume Button Here Later -->
 
 </p>
+
 ---
 
-## Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ishikabarnwal/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/ishikabarnwal/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
