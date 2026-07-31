@@ -2,10 +2,6 @@
   Hi 👋, I'm <strong>Ishika Barnwal</strong>
 </h1>
 
-<h3 align="center">
-  Full Stack Developer • Java Developer • Backend Enthusiast
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;Building+Practical+Software;Always+Learning" />
 </p>
