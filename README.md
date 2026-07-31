@@ -41,39 +41,13 @@ Currently focused on:
 
 ## Tech Stack
 
-#### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,tailwind,bootstrap,vite,nodejs,express,spring,django,mysql,mongodb,firebase,git,github,postman,vscode,idea,figma&perline=7"/>
 </p>
 
-#### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+<p align="center">
+Java • Spring Boot • React • Node.js • MongoDB • MySQL • Django • n8n
 </p>
-
-#### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
-</p>
-
-#### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-#### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma" />
-</p>
-
-#### Automation
-
-**n8n**
 
 ---
 
