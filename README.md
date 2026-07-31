@@ -94,7 +94,7 @@ Full Stack Developer • Java Developer • Problem Solver
 
 - 🚀 Build impactful Full Stack Projects
 - 📚 Master Spring Boot
-- 💻 Solve 500+ LeetCode problems
+- 💻 Solve LeetCode problems
 - ☁️ Learn Cloud & System Design
 - 🤝 Contribute to Open Source
 
