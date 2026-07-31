@@ -55,7 +55,7 @@ Java • Spring Boot • React • Node.js • MongoDB • MySQL • Django • 
 
 ## Currently Working On
 
-- Building **BorrowBox**
+- Building **Atlas**
 - Solving LeetCode consistently
 - Learning advanced Spring Boot
 - Exploring system design concepts
