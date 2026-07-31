@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Ishika Barnwal</h1>
+<h1 align="center">
+Hi 👋, I'm <strong>Ishika Barnwal</strong>
+</h1>
 
 <h3 align="center">
 Full Stack Developer • Java Developer • Backend Enthusiast
