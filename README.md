@@ -1,101 +1,96 @@
-<!-- <p align="center">
-  <img src="./gitbanner.png" alt="GitHub Banner" width="100%">
-</p> -->
-
-<h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF;">Ishika Barnwal</span>
-</h1>
+<h1 align="center">Hi, I'm Ishika Barnwal</h1>
 
 <h3 align="center">
-Full Stack Developer • Java Developer • Problem Solver
+Full Stack Developer • Java Developer • Backend Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Backend+Developer;Always+Learning+Something+New" />
-</p> 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Software;Java+%7C+Spring+Boot+Developer;MERN+Stack+Developer;Backend+Engineering;Always+Learning" />
+</p>
 
 ---
 
-# 👩‍💻 About Me
+## About Me
 
-🎓 Final Year B.Tech Computer Science Student
+Final Year B.Tech Computer Science student passionate about building software that solves real-world problems.
 
-💡 Passionate about building products that solve real-world problems.
+Currently focusing on:
 
-🚀 Currently focused on Full Stack Development, Backend Engineering and Data Structures & Algorithms.
-
-🌱 Exploring scalable backend systems, automation and modern web technologies.
+- Full Stack Development
+- Backend Engineering
+- Data Structures & Algorithms
+- System Design
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 📦 **BorrowBox** | Student rental marketplace for borrowing and renting everyday essentials. |
-| 🧭 **Atlas** | Smart campus navigation & accessibility platform. |
-| 🔗 **CredChain** | Blockchain powered credential verification platform. |
-| 💰 **SettleUp Backend** | Spring Boot backend for expense management. |
-| 📚 **LeetCode Solutions** | Collection of accepted Java solutions synced automatically using LeetHub. |
+| **BorrowBox** | Student-focused rental marketplace for borrowing and renting everyday essentials. |
+| **Atlas** | Smart campus navigation and accessibility platform. |
+| **CredChain** | Blockchain-powered credential verification platform. |
+| **SettleUp Backend** | Spring Boot backend for shared expense management. |
+| **LeetCode Solutions** | Collection of accepted Java solutions synced with LeetHub. |
 
 ---
 
-# 🛠 Tech Stack
+## Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,html,css,js" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django" />
 </p>
 
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,figma" />
 </p>
 
-## Automation
+### Automation
 
-- ⚡ n8n
+n8n
 
 ---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishikabarnwal&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ishikabarnwal&theme=github-dark-blue&hide_border=true"/>
 </p>
----
-
-# 🎯 2026 Goals
-
-- 🚀 Build impactful Full Stack Projects
-- 📚 Master Spring Boot
-- 💻 Solve LeetCode problems
-- ☁️ Learn Cloud & System Design
-- 🤝 Contribute to Open Source
 
 ---
 
-# 🌐 Connect With Me
+## Current Focus
+
+- Building production-ready full stack applications
+- Strengthening backend development with Spring Boot
+- Consistently solving Data Structures & Algorithms
+- Learning cloud technologies and system design
+
+---
+
+## Connect
 
 <p align="left">
 
@@ -110,13 +105,5 @@ Full Stack Developer • Java Developer • Problem Solver
 <a href="mailto:ishikabarnwal2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
 
 </p>
