@@ -65,19 +65,16 @@ Java • Spring Boot • React • Node.js • MongoDB • MySQL • Django • 
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ishika-barnwal-/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://ishika-barnwal.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/white" height="50" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ishikabarnwal2004@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
-  </a>
-</p>
 
+<a href="https://www.linkedin.com/in/ishika-barnwal-/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ishikabarnwal2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 <!-- Add Resume Button Here Later -->
 
 </p>
